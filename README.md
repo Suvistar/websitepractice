@@ -1,13 +1,9 @@
-## Welcome to GitHub Pages
+HI DR. MARKO!!!!
 
-Hi this is Suvi's first website creation.
+WEBSITE PRODUCTION IS UNDERWAY
 
-Hope you;ve enjoyed your stay.
+Step 1 complete
 
-### Jekyll Themes
+Hello world!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Suvistar/websitepractice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-Suvi Pachigolla
